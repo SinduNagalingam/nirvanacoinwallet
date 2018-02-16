@@ -1,4 +1,4 @@
 
-set(CN_PROJECT_NAME "Nirvanacoin")
+set(CN_PROJECT_NAME "nirvanacoin")
 set(CN_CURRENCY_DISPLAY_NAME "NirvanaCoin")
 set(CN_CURRENCY_TICKER "NIRV")
